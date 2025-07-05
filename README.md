@@ -11,7 +11,7 @@ neural interfaces. Follow us on [X/Twitter](https://x.com/shunyaresearch) for up
 ---
 **Connect:** 
 - Find me on [X/Twitter](https://x.com/cyb3r_17) 
-- Or write to me @ [Email | Subject to change whenever](cyberswebsite.whomever282@passinbox.com)
+- Or write to me @ [Email | Subject to change whenever](mailto:cyberswebsite.whomever282@passinbox.com)
 - [YouTube](https://www.youtube.com/@cyberwasbored)
 ---
 
