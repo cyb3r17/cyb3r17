@@ -1,12 +1,25 @@
 Hello, I'm [cyber](https://cyb3r17.space)
 
-I post code of stuff I write mostly related to AI, robotics, rocketry/satellites, Bitcoin, cryptography or other scripts. \
-I also like EE and post my PCBs and other designs here.
-I am currently learning CV, RL and PCB design.
+I post code and projects mostly around **AI**, **robotics**, **rocketry/satellites**, **Bitcoin**, **cryptography**, and other scripts.  
+You'll also find my **electrical engineering** work here – **PCBs**, circuit designs, and more.
 
+I'm currently learning **Computer Vision**, **Reinforcement Learning**, **PCB Design** and **Rust**.
 
-If you'd like to support my work, consider donating some sats \
-Lightning: `cy@stacker.news` \
-BTC: `bc1qh243mxg9637ape9f89fmvrt6wvny5nnxtsv609`
+I'm currently working on [Shunya Research](https://shunyaresearch.systems), a student led AI research lab that focuses on transformer alternate architectures and affordable non-intrusive
+neural interfaces. Follow us on [X/Twitter](https://x.com/shunyaresearch) for updates.
 
-You can find me on [X/Twitter](https://x.com/cyb3r_17)
+---
+**Connect:** 
+- Find me on [X/Twitter](https://x.com/cyb3r_17) 
+- Or write to me @ [Email | Subject to change whenever](cyberswebsite.whomever282@passinbox.com)
+- [YouTube](https://www.youtube.com/@cyberwasbored)
+---
+
+**Support my work:**  \
+If you find my FOSS projects useful, consider donating some sats:
+
+- ⚡ **Lightning**: `cy@stacker.news`  
+- ₿ **BTC**: `bc1qh243mxg9637ape9f89fmvrt6wvny5nnxtsv609`
+
+---
+Thank you for visiting!
